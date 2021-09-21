@@ -1,2 +1,1 @@
-My first readme, I´m excited!. 
-:D
+My first readme, I´m excited!.
